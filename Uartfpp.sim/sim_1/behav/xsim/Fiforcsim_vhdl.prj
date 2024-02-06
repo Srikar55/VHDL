@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Uartfpp.srcs/sources_1/new/Fifocounrc.vhd" \
+"../../../../Uartfpp.srcs/sources_1/new/Fiforc.vhd" \
+"../../../../Uartfpp.srcs/sources_1/new/Regfilerc.vhd" \
+"../../../../Uartfpp.srcs/sim_1/new/Fiforcsim.vhd" \
+
+# Do not sort compile order
+nosort
