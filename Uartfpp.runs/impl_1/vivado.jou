@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Mon Apr 24 19:29:32 2023
+# Process ID: 38396
+# Current directory: C:/Users/srika/Desktop/uart fp/Uartfpp/Uartfpp.runs/impl_1
+# Command line: vivado.exe -log Uart_rc.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Uart_rc.tcl -notrace
+# Log file: C:/Users/srika/Desktop/uart fp/Uartfpp/Uartfpp.runs/impl_1/Uart_rc.vdi
+# Journal file: C:/Users/srika/Desktop/uart fp/Uartfpp/Uartfpp.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Uart_rc.tcl -notrace
